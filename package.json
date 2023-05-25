@@ -1,6 +1,6 @@
 {
     "name": "vistorian-map",
-    "version": "0.0.2-alpha",
+    "version": "0.0.5",
     "description": "Vistorian-map is a java script / (Typescript) library and a programming framework for interactive network visualizations with:",
     "main": "lib/index.js",
     "types": "lib/index.d.js",
@@ -27,13 +27,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/networkcube/vistorian-map.git"
+        "url": "git+https://github.com/alkadi-mh/vistorian-map_tr.git"
     },
     "collaborators": [
         "Jean-Daniel Fekete <Jean-Daniel.Fekete@inria.fr",
         "Alexandra Ibarra Cuesta"
     ],
-    "homepage": "https://github.com/networkcube/networkcube#readme",
+    "homepage": "https://github.com/alkadi-mh/vistorian-web_tr#readme",
     "bundledDependencies": [
         "jquery",
         "jstorage",
